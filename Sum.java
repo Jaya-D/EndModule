@@ -1,7 +1,7 @@
 public class Sum{
     public static void main(String[] args)
     {
-        int a =3;
+        int a =8;
         int b=5;
         System.out.println(a+b);
     }
